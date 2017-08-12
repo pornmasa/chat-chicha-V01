@@ -1,1 +1,1 @@
-<?php echo " test chat ChiCha >//< ";?>
+<?php echo " test chat ChiCha";?>
